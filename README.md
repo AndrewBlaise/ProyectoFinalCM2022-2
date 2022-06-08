@@ -1,3 +1,4 @@
+##Realizado por Sánchez Espinosa Andrew Blaise
 # ProyectoFinalCM2022-2
 Se agrega proyecto final CM2022-2
 Este proyecto plantea funcionalidades muy amplias, como el de hacer perfiles personalisados para vendedores
